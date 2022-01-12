@@ -1,1 +1,2 @@
-
+# Display Output
+print('hello')
